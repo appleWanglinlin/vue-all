@@ -6,6 +6,7 @@
         Click to download PDF
       </el-button>
     </router-link>
+    <aside style="margin-top:15px;">pdf</aside>
   </div>
 </template>
 
